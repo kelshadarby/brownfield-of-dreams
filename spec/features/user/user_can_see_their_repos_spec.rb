@@ -1,11 +1,11 @@
 require 'rails_helper'
 
 RSpec.describe "As a User" do
-  before :each do
-    json_response = File.read('spec/fixtures/github_repos.json')
-    stub_request(:get, "https://api.github.com/user/repos?access_token=#{ENV['Github_token_jenny']}").
-      to_return(status: 200, body: json_response)
-  end
+  # before :each do
+  #   json_response = File.read('spec/fixtures/github_repos.json')
+  #   stub_request(:get, "https://api.github.com/user/repos?access_token=#{ENV['Github_token_jenny']}").
+  #     to_return(status: 200, body: json_response)
+  # end
   # VCR.use_cassette('can see 5 of my repos') do
   it "I can see 5 of my repos" do
     WebMock.allow_net_connect!
@@ -15,7 +15,7 @@ RSpec.describe "As a User" do
                         password: "password",
                         role: 0,
                         github_token: ENV['jenny_github_token'])
-    user = User.create!(email: "kelsha@gmail.com",
+    user_2 = User.create!(email: "kelsha@gmail.com",
                         first_name: "Kelsha",
                         last_name: "Darby",
                         password: "password",
