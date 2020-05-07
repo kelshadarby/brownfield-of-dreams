@@ -16,5 +16,9 @@
     <% @repos.each do |repo| %>
       <%= link_to repo[:name], repo[:html_url] %>
     <% end %>
+
+    <% @followers.each do |follower| %>
+      <%= link_to follower[:login], follower[:html_url] %>
+    <% end %>
   </section>
 <% end %>
