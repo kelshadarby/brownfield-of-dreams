@@ -20,5 +20,8 @@
     <% @followers.each do |follower| %>
       <%= link_to follower[:login], follower[:html_url] %>
     <% end %>
+    <% @followings.each do |following| %>
+      <%= link_to following[:login], following[:html_url] %>
+    <% end %>
   </section>
 <% end %>

@@ -23,6 +23,10 @@ RSpec.describe "As a User" do
     json_response = File.read('spec/fixtures/github_followers.json')
     stub_request(:get, "https://api.github.com/user/followers?access_token=#{user.github_token}").
       to_return(status: 200, body: json_response)
+
+    json_response = File.read('spec/fixtures/github_following.json')
+    stub_request(:get, "https://api.github.com/user/following?access_token=#{user.github_token}").
+      to_return(status: 200, body: json_response)
   end
   it "I can see 5 of my repos" do
     # VCR.use_cassette('can see 5 of my repos') do
