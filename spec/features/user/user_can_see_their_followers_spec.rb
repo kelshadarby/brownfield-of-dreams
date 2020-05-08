@@ -1,13 +1,7 @@
 require 'rails_helper'
 
 RSpec.describe "As a registered user", type: :feature do
-  # before :each do
-  #   json_response = File.read('spec/fixtures/github_followers.json')
-  #   stub_request(:get, "https://api.github.com/user/followers?access_token=#{ENV['Github_token_jenny']}").
-  #     to_return(status: 200, body: json_response)
-  # end
-  it "I can see all of my followers names as links" do
-    WebMock.allow_net_connect!
+  before :each do
     user = User.create!(email: "jennyklich@gmail.com",
                         first_name: "Jenny",
                         last_name: "Klich",
@@ -21,6 +15,16 @@ RSpec.describe "As a registered user", type: :feature do
                         role: 0,
                         github_token: ENV['kelsha_github_token'])
     allow_any_instance_of(ApplicationController).to receive(:current_user).and_return(user)
+
+    json_response = File.read('spec/fixtures/github_followers.json')
+    stub_request(:get, "https://api.github.com/user/followers?access_token=#{user.github_token}").
+      to_return(status: 200, body: json_response)
+
+    json_response = File.read('spec/fixtures/github_repos.json')
+    stub_request(:get, "https://api.github.com/user/repos?access_token=#{user.github_token}").
+      to_return(status: 200, body: json_response)
+  end
+  it "I can see all of my followers names as links" do
 
     visit "/dashboard"
 
