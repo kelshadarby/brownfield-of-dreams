@@ -28,8 +28,8 @@ RSpec.describe "As a registered user", type: :feature do
     stub_request(:get, "https://api.github.com/user/following?access_token=#{user.github_token}").
       to_return(status: 200, body: json_response)
   end
-  it "I can see all of my followers names as links" do
 
+  it "I can see the people I follow" do
     visit "/dashboard"
 
     expect(page).to_not have_link('jklich151', href: 'https://github.com/jklich151')
@@ -39,6 +39,9 @@ RSpec.describe "As a registered user", type: :feature do
       expect(page).to have_link('benfox1216', href: 'https://github.com/benfox1216')
       expect(page).to have_link('alex-latham', href: 'https://github.com/alex-latham')
       expect(page).to have_link('jrsewell400', href: 'https://github.com/jrsewell400')
+      expect(page).to have_link('kelshadarby', href: 'https://github.com/kelshadarby')
+      expect(page).to have_link('iEv0lv3', href: 'https://github.com/iEv0lv3')
+      expect(page).to have_link('rcallen89', href: 'https://github.com/rcallen89')
     end
   end
 end

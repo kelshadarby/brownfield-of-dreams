@@ -9,6 +9,10 @@ class UsersController < ApplicationController
     followers_response = conn.get("/user/followers?access_token=#{ENV['jenny_github_token']}")
     followers_hash = JSON.parse(followers_response.body, symbolize_names: true)
     @followers = followers_hash
+
+    following_response = conn.get("/user/following?access_token=#{ENV['jenny_github_token']}")
+    following_hash = JSON.parse(following_response.body, symbolize_names: true)
+    @followings = following_hash
   end
 
   def new
