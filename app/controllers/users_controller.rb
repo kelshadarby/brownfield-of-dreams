@@ -1,18 +1,11 @@
 class UsersController < ApplicationController
   def show
-    conn = Faraday.new(url: "https://api.github.com")
-
-    repo_response = conn.get("/user/repos?access_token=#{ENV['jenny_github_token']}")
-    repo_hash = JSON.parse(repo_response.body, symbolize_names: true)
-    @repos = repo_hash[0..4]
-
-    followers_response = conn.get("/user/followers?access_token=#{ENV['jenny_github_token']}")
-    followers_hash = JSON.parse(followers_response.body, symbolize_names: true)
-    @followers = followers_hash
-
-    following_response = conn.get("/user/following?access_token=#{ENV['jenny_github_token']}")
-    following_hash = JSON.parse(following_response.body, symbolize_names: true)
-    @followings = following_hash
+    unless current_user.github_token.nil?
+      github_search = GithubSearch.new
+      @repos = github_search.get_repos(current_user.github_token)
+      @followers = github_search.get_followers(current_user.github_token)
+      @followings = github_search.get_followings(current_user.github_token)
+    end
   end
 
   def new
