@@ -1,0 +1,1650 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "vb-6qQvYxUsuePU_FWmUPVxox-U",
+  "prevPageToken": "CDIQAQ",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Zj4OW6XNpO7tRL18FZ4A5_w5m2U",
+      "id": "UExEZktBWFNpNmtVYWZLbHdBdXJXU1Q4emI0LVp5MUpjVS44QzVGQUU2QjE2NDgxM0M4",
+      "snippet": {
+        "publishedAt": "2017-04-13T19:36:26Z",
+        "channelId": "UC5nc_ZtjKW1htCVZVRxlQAQ",
+        "title": "Lana Del Rey - West Coast (Camo & Krooked Remix)",
+        "description": "Lana Del Rey - West Coast (Camo & Krooked Remix)\n\n⬙  FAVOURITES ON SPOTIFY ⬙\n⇥ http://mrsuicidesheep.com/favourites\n\nA gloriously imaginative remix from the Austrian duo for Day 2 of 'Experimental Week'.\nDownload the original... http://bit.ly/1vAGMRb\n\nCamo & Krooked\nhttps://soundcloud.com/camokrooked\nhttp://camoandkrooked.com\nhttps://www.facebook.com/CamoKrooked\nhttps://twitter.com/CamoKrooked\n\nLana Del Rey\nhttps://soundcloud.com/lana-del-rey\nhttp://lanadelrey.com\nhttps://www.facebook.com/lanadelrey\nhttps://twitter.com/lanadelrey\n\nReleased by Polydor\nhttp://www.polydor.co.uk/\nhttps://www.facebook.com/polydorrecords\nhttps://twitter.com/polydorrecords\n\nPicture by Julia Trotti\nhttps://flic.kr/p/9Sf8Dv\nhttps://www.facebook.com/juliatrottip...\n\n⬗ Sheepy Store ⬗\n⇥ http://mrsuicidesheep.com/store\n\n⬖ Submit Music & Art ⬖\n⇥ http://mrsuicidesheep.com/submit\n\n⬙ Sheepy Instagram ⬙\n⇥ http://mrsuicidesheep.com/insta\n\n⬘ Spotify: Channel Uploads ⬘\n⇥ http://mrsuicidesheep.com/channeluploads\n\n⬗ Spotify: Seeking Blue ⬗\n⇥ http://mrsuicidesheep.com/skblueplaylist",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CQgLa-840GM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CQgLa-840GM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CQgLa-840GM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CQgLa-840GM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CQgLa-840GM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MrSuicideSheep",
+        "playlistId": "PLDfKAXSi6kUafKlwAurWST8zb4-Zy1JcU",
+        "position": 50,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CQgLa-840GM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "CQgLa-840GM",
+        "videoPublishedAt": "2014-05-20T18:17:27Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mLkbeEbegqt5YTuI0U91v3LGh2o",
+      "id": "UExEZktBWFNpNmtVYWZLbHdBdXJXU1Q4emI0LVp5MUpjVS4xMzgwMzBERjQ4NjEzNUE5",
+      "snippet": {
+        "publishedAt": "2017-04-13T19:36:26Z",
+        "channelId": "UC5nc_ZtjKW1htCVZVRxlQAQ",
+        "title": "Robyn Miller - Un-finale (Goldmund Cover)",
+        "description": "Robyn Miller - Un-finale (Goldmund Cover)\n\n⬙  FAVOURITES ON SPOTIFY ⬙\n⇥ http://mrsuicidesheep.com/favourites\n\nA soft glow illuminates the way...\nDay 1 of 'Experimental Week'.\n\nGoldmund\nhttp://www.unseen-music.com\nhttps://soundcloud.com/keithkenniff\nhttps://www.facebook.com/heliosmusic\n\nPicture by Li Hui\nhttps://flic.kr/p/dyt2Xb\nhttp://huiuh.com\nhttps://www.instagram.com/huiuh_/\n\n⬗ Sheepy Store ⬗\n⇥ http://mrsuicidesheep.com/store\n\n⬖ Submit Music & Art ⬖\n⇥ http://mrsuicidesheep.com/submit\n\n⬙ Sheepy Instagram ⬙\n⇥ http://mrsuicidesheep.com/insta\n\n⬘ Spotify: Channel Uploads ⬘\n⇥ http://mrsuicidesheep.com/channeluploads\n\n⬗ Spotify: Seeking Blue ⬗\n⇥ http://mrsuicidesheep.com/skblueplaylist",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/508nipIcytg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/508nipIcytg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/508nipIcytg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/508nipIcytg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/508nipIcytg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MrSuicideSheep",
+        "playlistId": "PLDfKAXSi6kUafKlwAurWST8zb4-Zy1JcU",
+        "position": 51,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "508nipIcytg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "508nipIcytg",
+        "videoPublishedAt": "2014-05-19T18:38:42Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "sPXV1f1NXhPq4XQ3IGE36golBpU",
+      "id": "UExEZktBWFNpNmtVYWZLbHdBdXJXU1Q4emI0LVp5MUpjVS4zMEQ1MEIyRTFGNzhDQzFB",
+      "snippet": {
+        "publishedAt": "2017-04-13T19:36:26Z",
+        "channelId": "UC5nc_ZtjKW1htCVZVRxlQAQ",
+        "title": "Kashuks - Universe",
+        "description": "Kashuks - Universe\n\n⬙  FAVOURITES ON SPOTIFY ⬙\n⇥ http://mrsuicidesheep.com/favourites\n\nFor the last day of 'Experimental Week' we have a dark yet beautiful track from Kashuks. All the elements of the song fall into place in a melodically disorganised way giving the track a unique character.\nPurchase... https://dirtydealaudio.bandcamp.com/a...\n\nKashuks\nhttps://soundcloud.com/kashuk\nhttps://www.facebook.com/kashukslv\nhttps://twitter.com/Kashuks\n\nFilmed and edited by Tom Rings\n\n⬗ Sheepy Store ⬗\n⇥ http://mrsuicidesheep.com/store\n\n⬖ Submit Music & Art ⬖\n⇥ http://mrsuicidesheep.com/submit\n\n⬙ Sheepy Instagram ⬙\n⇥ http://mrsuicidesheep.com/insta\n\n⬘ Spotify: Channel Uploads ⬘\n⇥ http://mrsuicidesheep.com/channeluploads\n\n⬗ Spotify: Seeking Blue ⬗\n⇥ http://mrsuicidesheep.com/skblueplaylist",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/keUAod4r4UQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/keUAod4r4UQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/keUAod4r4UQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/keUAod4r4UQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/keUAod4r4UQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MrSuicideSheep",
+        "playlistId": "PLDfKAXSi6kUafKlwAurWST8zb4-Zy1JcU",
+        "position": 52,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "keUAod4r4UQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "keUAod4r4UQ",
+        "videoPublishedAt": "2014-01-26T20:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5GSNS3_H34HFxejJvgcwykVPE9U",
+      "id": "UExEZktBWFNpNmtVYWZLbHdBdXJXU1Q4emI0LVp5MUpjVS42Qzk5MkEzQjVFQjYwRDA4",
+      "snippet": {
+        "publishedAt": "2017-04-13T19:36:26Z",
+        "channelId": "UC5nc_ZtjKW1htCVZVRxlQAQ",
+        "title": "Bear Grillz - Fan Mail",
+        "description": "Bear Grillz - Fan Mail\n\n⬙  FAVOURITES ON SPOTIFY ⬙\n⇥ http://mrsuicidesheep.com/favourites\n\nHere's something heavy for day 6.\nThe track is available for free from Bear Grillz's facebook page.\nhttps://www.facebook.com/itsbeargrillz\nhttps://soundcloud.com/itsbeargrillz\nhttps://twitter.com/itsbeargrillz\nhttp://www.youtube.com/itsbeargrillz\n\nArtwork by Truong Huyen\nhttp://fav.me/d32lwdi\n\n⬗ Sheepy Store ⬗\n⇥ http://mrsuicidesheep.com/store\n\n⬖ Submit Music & Art ⬖\n⇥ http://mrsuicidesheep.com/submit\n\n⬙ Sheepy Instagram ⬙\n⇥ http://mrsuicidesheep.com/insta\n\n⬘ Spotify: Channel Uploads ⬘\n⇥ http://mrsuicidesheep.com/channeluploads\n\n⬗ Spotify: Seeking Blue ⬗\n⇥ http://mrsuicidesheep.com/skblueplaylist",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VE8qriXcxgQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VE8qriXcxgQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VE8qriXcxgQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VE8qriXcxgQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VE8qriXcxgQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MrSuicideSheep",
+        "playlistId": "PLDfKAXSi6kUafKlwAurWST8zb4-Zy1JcU",
+        "position": 53,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VE8qriXcxgQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "VE8qriXcxgQ",
+        "videoPublishedAt": "2014-01-25T17:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8kzCL0WI-slzuPXtCZIQQipbv7Y",
+      "id": "UExEZktBWFNpNmtVYWZLbHdBdXJXU1Q4emI0LVp5MUpjVS41NTZEOThBNThFOUVGQkVB",
+      "snippet": {
+        "publishedAt": "2017-04-13T19:36:26Z",
+        "channelId": "UC5nc_ZtjKW1htCVZVRxlQAQ",
+        "title": "Starcadian - Chinatown",
+        "description": "Starcadian - Chinatown\n\n⬙  FAVOURITES ON SPOTIFY ⬙\n⇥ http://mrsuicidesheep.com/favourites\n\nDay 5.\nReminds me of the old Justice and Daft Punk stuff. Incredible!\nPurchase... http://starcadian.bandcamp.com\n\nStarcadian\nhttp://starcadian.com\nhttps://www.facebook.com/pages/Starca...\nhttps://soundcloud.com/starcadian\n\nArtwork by Jonas De Ro\nhttp://fav.me/d6xrvil\nhttp://www.jonasdero.be\nhttps://www.facebook.com/jonas.dero\n\n⬗ Sheepy Store ⬗\n⇥ http://mrsuicidesheep.com/store\n\n⬖ Submit Music & Art ⬖\n⇥ http://mrsuicidesheep.com/submit\n\n⬙ Sheepy Instagram ⬙\n⇥ http://mrsuicidesheep.com/insta\n\n⬘ Spotify: Channel Uploads ⬘\n⇥ http://mrsuicidesheep.com/channeluploads\n\n⬗ Spotify: Seeking Blue ⬗\n⇥ http://mrsuicidesheep.com/skblueplaylist",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qqwj4XAI4pQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qqwj4XAI4pQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qqwj4XAI4pQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qqwj4XAI4pQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qqwj4XAI4pQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MrSuicideSheep",
+        "playlistId": "PLDfKAXSi6kUafKlwAurWST8zb4-Zy1JcU",
+        "position": 54,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qqwj4XAI4pQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "qqwj4XAI4pQ",
+        "videoPublishedAt": "2014-01-24T19:30:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ARXhshNeaQTq-gWz374t-_Ajmws",
+      "id": "UExEZktBWFNpNmtVYWZLbHdBdXJXU1Q4emI0LVp5MUpjVS43NERCMDIzQzFBMERCMEE3",
+      "snippet": {
+        "publishedAt": "2017-04-13T19:36:26Z",
+        "channelId": "UC5nc_ZtjKW1htCVZVRxlQAQ",
+        "title": "Sable - Feels So Good",
+        "description": "Sable - Feels So Good\n\n⬙  FAVOURITES ON SPOTIFY ⬙\n⇥ http://mrsuicidesheep.com/favourites\n\nSomething to make you feel alive for Day 3.\n\nSable\nhttps://soundcloud.com/sablemusic\nhttps://www.facebook.com/soundsable\nhttps://twitter.com/SableSound\n\nReleased by Pilerats Records\nhttps://soundcloud.com/pilerats\nhttp://pilerats.com/\nhttps://www.facebook.com/pilerats\nhttps://twitter.com/pilerats\n\n⬗ Sheepy Store ⬗\n⇥ http://mrsuicidesheep.com/store\n\n⬖ Submit Music & Art ⬖\n⇥ http://mrsuicidesheep.com/submit\n\n⬙ Sheepy Instagram ⬙\n⇥ http://mrsuicidesheep.com/insta\n\n⬘ Spotify: Channel Uploads ⬘\n⇥ http://mrsuicidesheep.com/channeluploads\n\n⬗ Spotify: Seeking Blue ⬗\n⇥ http://mrsuicidesheep.com/skblueplaylist",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WcaOs4gPDVw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WcaOs4gPDVw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WcaOs4gPDVw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WcaOs4gPDVw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WcaOs4gPDVw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MrSuicideSheep",
+        "playlistId": "PLDfKAXSi6kUafKlwAurWST8zb4-Zy1JcU",
+        "position": 55,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WcaOs4gPDVw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "WcaOs4gPDVw",
+        "videoPublishedAt": "2014-01-22T18:30:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZRxd_gH9uS0lDX4SUiHW8zwgAnQ",
+      "id": "UExEZktBWFNpNmtVYWZLbHdBdXJXU1Q4emI0LVp5MUpjVS5GNjAwN0Y0QTFGOTVDMEMy",
+      "snippet": {
+        "publishedAt": "2017-04-13T19:36:26Z",
+        "channelId": "UC5nc_ZtjKW1htCVZVRxlQAQ",
+        "title": "Satchmode - Best Intentions",
+        "description": "Satchmode - Best Intentions\n\n⬙  FAVOURITES ON SPOTIFY ⬙\n⇥ http://mrsuicidesheep.com/favourites\n\nWonderful dreamy music for day 2.\nPurchase... http://smarturl.it/satchmode-collide\n\nSatchmode\nhttps://soundcloud.com/satchmode\nhttp://www.satchmode.com/\nhttps://www.facebook.com/Satchmode\nhttps://twitter.com/satchmode\n\nPicture by Julia Trotti\nhttp://fav.me/d6zaoql\nhttps://www.facebook.com/juliatrottip...\nhttp://www.jtrotti.blogspot.co.at\nhttp://www.twitter.com/jtrotti\n\n⬗ Sheepy Store ⬗\n⇥ http://mrsuicidesheep.com/store\n\n⬖ Submit Music & Art ⬖\n⇥ http://mrsuicidesheep.com/submit\n\n⬙ Sheepy Instagram ⬙\n⇥ http://mrsuicidesheep.com/insta\n\n⬘ Spotify: Channel Uploads ⬘\n⇥ http://mrsuicidesheep.com/channeluploads\n\n⬗ Spotify: Seeking Blue ⬗\n⇥ http://mrsuicidesheep.com/skblueplaylist",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/78KqFgSCLao/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/78KqFgSCLao/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/78KqFgSCLao/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/78KqFgSCLao/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/78KqFgSCLao/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MrSuicideSheep",
+        "playlistId": "PLDfKAXSi6kUafKlwAurWST8zb4-Zy1JcU",
+        "position": 56,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "78KqFgSCLao"
+        }
+      },
+      "contentDetails": {
+        "videoId": "78KqFgSCLao",
+        "videoPublishedAt": "2014-01-21T19:30:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7ikhv3lfUCPlsGcBb_NdM-0bX1Q",
+      "id": "UExEZktBWFNpNmtVYWZLbHdBdXJXU1Q4emI0LVp5MUpjVS5CQkEwRDA0MDkwNUM2MDY1",
+      "snippet": {
+        "publishedAt": "2017-04-13T19:36:26Z",
+        "channelId": "UC5nc_ZtjKW1htCVZVRxlQAQ",
+        "title": "Oskar Schuster - Matilda",
+        "description": "Oskar Schuster - Matilda\n\n⬙  FAVOURITES ON SPOTIFY ⬙\n⇥ http://mrsuicidesheep.com/favourites\n\nThe start of another 'Experimental Week'.\nDay 1. \n\nPlease give your love to Oskar Schuster for this lovely tune.\nhttps://soundcloud.com/oskarschuster\nhttp://oskarschuster.com/\nhttps://www.facebook.com/oskarschuste...\nhttps://twitter.com/oskarschuster\n\nPicture by Jonne Ollakka\nhttp://flic.kr/p/7eWc9r\n\n⬗ Sheepy Store ⬗\n⇥ http://mrsuicidesheep.com/store\n\n⬖ Submit Music & Art ⬖\n⇥ http://mrsuicidesheep.com/submit\n\n⬙ Sheepy Instagram ⬙\n⇥ http://mrsuicidesheep.com/insta\n\n⬘ Spotify: Channel Uploads ⬘\n⇥ http://mrsuicidesheep.com/channeluploads\n\n⬗ Spotify: Seeking Blue ⬗\n⇥ http://mrsuicidesheep.com/skblueplaylist",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bnlFuPRxH8w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bnlFuPRxH8w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bnlFuPRxH8w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bnlFuPRxH8w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bnlFuPRxH8w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MrSuicideSheep",
+        "playlistId": "PLDfKAXSi6kUafKlwAurWST8zb4-Zy1JcU",
+        "position": 57,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "bnlFuPRxH8w"
+        }
+      },
+      "contentDetails": {
+        "videoId": "bnlFuPRxH8w",
+        "videoPublishedAt": "2014-01-20T19:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "88hfQEnYHvdmeddgZckKaAV2Ayc",
+      "id": "UExEZktBWFNpNmtVYWZLbHdBdXJXU1Q4emI0LVp5MUpjVS4wNEU1MTI4NkZEMzVBN0JF",
+      "snippet": {
+        "publishedAt": "2017-04-13T19:36:26Z",
+        "channelId": "UC5nc_ZtjKW1htCVZVRxlQAQ",
+        "title": "Panama Wedding - All Of The People",
+        "description": "Panama Wedding - All Of The People\n\n⬙  FAVOURITES ON SPOTIFY ⬙\n⇥ http://mrsuicidesheep.com/favourites\n\nThis track for day 6 will hopefully brighten up your Saturday :)\nDownload... http://bit.ly/1f0Wjoi\n\nPanama Wedding\nhttps://soundcloud.com/panamawedding\nhttp://facebook.com/panamawedding\n\nPicture by Ibai Acevedo\nhttp://flic.kr/p/cMp72E\nhttp://ibaiacevedo.com/\nhttps://www.facebook.com/ibaiacevedophotography\n\n⬗ Sheepy Store ⬗\n⇥ http://mrsuicidesheep.com/store\n\n⬖ Submit Music & Art ⬖\n⇥ http://mrsuicidesheep.com/submit\n\n⬙ Sheepy Instagram ⬙\n⇥ http://mrsuicidesheep.com/insta\n\n⬘ Spotify: Channel Uploads ⬘\n⇥ http://mrsuicidesheep.com/channeluploads\n\n⬗ Spotify: Seeking Blue ⬗\n⇥ http://mrsuicidesheep.com/skblueplaylist",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/92q5cbSf4Gk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/92q5cbSf4Gk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/92q5cbSf4Gk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/92q5cbSf4Gk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/92q5cbSf4Gk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MrSuicideSheep",
+        "playlistId": "PLDfKAXSi6kUafKlwAurWST8zb4-Zy1JcU",
+        "position": 58,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "92q5cbSf4Gk"
+        }
+      },
+      "contentDetails": {
+        "videoId": "92q5cbSf4Gk",
+        "videoPublishedAt": "2013-11-09T17:52:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rML_tZL-sKj1TCPjSEKgf-jeem0",
+      "id": "UExEZktBWFNpNmtVYWZLbHdBdXJXU1Q4emI0LVp5MUpjVS4wMTYxQzVBRDI1NEVDQUZE",
+      "snippet": {
+        "publishedAt": "2017-04-13T19:36:26Z",
+        "channelId": "UC5nc_ZtjKW1htCVZVRxlQAQ",
+        "title": "Jakubi - Feels Like Yesterday",
+        "description": "Jakubi - Feels Like Yesterday\n\n⬙  FAVOURITES ON SPOTIFY ⬙\n⇥ http://mrsuicidesheep.com/favourites\n\nJakubi funks up day 5 with this feel good tune. \nhttps://soundcloud.com/jakubimusic\nhttps://www.facebook.com/JAKUBIMUSIC\n\nPicture by Joel Sossa\nhttps://www.facebook.com/JoelSossa\nhttp://joelsossa.tumblr.com/\nhttp://joelsossa.blogspot.mx/\n\n⬗ Sheepy Store ⬗\n⇥ http://mrsuicidesheep.com/store\n\n⬖ Submit Music & Art ⬖\n⇥ http://mrsuicidesheep.com/submit\n\n⬙ Sheepy Instagram ⬙\n⇥ http://mrsuicidesheep.com/insta\n\n⬘ Spotify: Channel Uploads ⬘\n⇥ http://mrsuicidesheep.com/channeluploads\n\n⬗ Spotify: Seeking Blue ⬗\n⇥ http://mrsuicidesheep.com/skblueplaylist",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IKkAVu_fZqw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IKkAVu_fZqw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IKkAVu_fZqw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IKkAVu_fZqw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IKkAVu_fZqw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MrSuicideSheep",
+        "playlistId": "PLDfKAXSi6kUafKlwAurWST8zb4-Zy1JcU",
+        "position": 59,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "IKkAVu_fZqw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "IKkAVu_fZqw",
+        "videoPublishedAt": "2013-11-08T18:29:03Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4Hv41ByiCe9HGAgcsF2uw27Rl0Q",
+      "id": "UExEZktBWFNpNmtVYWZLbHdBdXJXU1Q4emI0LVp5MUpjVS4zMUEyMkQwOTk0NTg4MDgw",
+      "snippet": {
+        "publishedAt": "2017-04-13T19:36:26Z",
+        "channelId": "UC5nc_ZtjKW1htCVZVRxlQAQ",
+        "title": "Shirobon - Cyber Party (feat. Radix)",
+        "description": "Shirobon - Cyber Party (feat. Radix)\n\n⬙  FAVOURITES ON SPOTIFY ⬙\n⇥ http://mrsuicidesheep.com/favourites\n\nAn uplifting chiptune track for day 4.\nPay what you want... http://shirobon.bandcamp.com/track/cy...\n\nShiroban\nhttps://soundcloud.com/shirobon\nhttps://www.facebook.com/ShirobonOffi...\nhttps://twitter.com/shirobon\n\nArtwork by Sanna Dullaway\nhttp://mygrapefruit.deviantart.com\nhttps://twitter.com/PastInColor\n\n⬗ Sheepy Store ⬗\n⇥ http://mrsuicidesheep.com/store\n\n⬖ Submit Music & Art ⬖\n⇥ http://mrsuicidesheep.com/submit\n\n⬙ Sheepy Instagram ⬙\n⇥ http://mrsuicidesheep.com/insta\n\n⬘ Spotify: Channel Uploads ⬘\n⇥ http://mrsuicidesheep.com/channeluploads\n\n⬗ Spotify: Seeking Blue ⬗\n⇥ http://mrsuicidesheep.com/skblueplaylist",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jOXffzirzyk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jOXffzirzyk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jOXffzirzyk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jOXffzirzyk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jOXffzirzyk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MrSuicideSheep",
+        "playlistId": "PLDfKAXSi6kUafKlwAurWST8zb4-Zy1JcU",
+        "position": 60,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jOXffzirzyk"
+        }
+      },
+      "contentDetails": {
+        "videoId": "jOXffzirzyk",
+        "videoPublishedAt": "2013-11-07T19:10:13Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "U1zPdEXLpOTJJd4_Ues0FNOIPZc",
+      "id": "UExEZktBWFNpNmtVYWZLbHdBdXJXU1Q4emI0LVp5MUpjVS42QzdBMzlBQzQzRjQ0QkQy",
+      "snippet": {
+        "publishedAt": "2017-04-13T19:36:26Z",
+        "channelId": "UC5nc_ZtjKW1htCVZVRxlQAQ",
+        "title": "AlunaGeorge - You Know You Like It (Tchami Remix)",
+        "description": "AlunaGeorge - You Know You Like It (Tchami Remix)\n\n⬙  FAVOURITES ON SPOTIFY ⬙\n⇥ http://mrsuicidesheep.com/favourites\n\nDay 3.\nThis will get you bouncing in your seat and make you want to get up and jump around like a retarded penguin :)\nPurchase the original... http://bit.ly/1fk3jbV\n\nTchami\nhttps://soundcloud.com/iamtchami\nhttps://www.facebook.com/iamTchami\nhttps://twitter.com/iamTchami\n\nAlunaGeorge\nhttps://soundcloud.com/alunageorge\nhttp://www.alunageorge.com/\nhttps://www.facebook.com/alunageorge\nhttps://twitter.com/alunageorge\n\nArtwork by Sina Pakzad Kasra\nhttp://fav.me/d5bss5v\nhttps://twitter.com/sinakasra\nhttps://www.artstation.com/artist/sinakasra\nhttp://sinakasra.blogspot.com/\n\n⬗ Sheepy Store ⬗\n⇥ http://mrsuicidesheep.com/store\n\n⬖ Submit Music & Art ⬖\n⇥ http://mrsuicidesheep.com/submit\n\n⬙ Sheepy Instagram ⬙\n⇥ http://mrsuicidesheep.com/insta\n\n⬘ Spotify: Channel Uploads ⬘\n⇥ http://mrsuicidesheep.com/channeluploads\n\n⬗ Spotify: Seeking Blue ⬗\n⇥ http://mrsuicidesheep.com/skblueplaylist",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1RG09IB_pys/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1RG09IB_pys/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1RG09IB_pys/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1RG09IB_pys/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1RG09IB_pys/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MrSuicideSheep",
+        "playlistId": "PLDfKAXSi6kUafKlwAurWST8zb4-Zy1JcU",
+        "position": 61,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1RG09IB_pys"
+        }
+      },
+      "contentDetails": {
+        "videoId": "1RG09IB_pys",
+        "videoPublishedAt": "2013-11-06T19:24:49Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "OFo9U3mD6uD6w02C6w1eieWqlB4",
+      "id": "UExEZktBWFNpNmtVYWZLbHdBdXJXU1Q4emI0LVp5MUpjVS41OURENDc2NEM1MDI5Mjky",
+      "snippet": {
+        "publishedAt": "2017-04-13T19:36:26Z",
+        "channelId": "UC5nc_ZtjKW1htCVZVRxlQAQ",
+        "title": "Movement - Us",
+        "description": "Something deep for Day 2.\nPurchase... https://itunes.apple.com/au/album/us-...\n\nMovement\nhttps://soundcloud.com/movementofficial\nhttp://movementsounds.com/\nhttps://www.facebook.com/MOVEMENTMUSIC\nhttps://twitter.com/MOVEMENTsounds\n\nReleased by Modular People\nhttps://soundcloud.com/modularpeople\nhttp://www.modularpeople.com/\nhttps://www.facebook.com/modularpeople\nhttps://twitter.com/modularpeople\n\nPicture by Ibai Acevedo\nhttp://ibaiacevedo.com/\nhttps://www.facebook.com/ibaiacevedophotography\nhttps://www.flickr.com/photos/miabuelanoloentiende/\n\nSheepy on Spotify\nhttp://bit.ly/MrSuicideSheepSpotify\n\nFacebooobs\nhttps://www.facebook.com/MrSuicideSheep\n\nWebsite\nhttp://mrsuicidesheep.com\n\nSheepy Shop\nhttp://bit.ly/2b8GvBm\n\nSubmit Tracks\nhttp://bit.ly/2aPHMvw\n\n*If any producer or label has an issue with any of the uploads please get in contact (suicide_sheep@hotmail.com) with me and I will delete it immediately (this includes artists of the images used).",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wY6AzYsfwCI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wY6AzYsfwCI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wY6AzYsfwCI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wY6AzYsfwCI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wY6AzYsfwCI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MrSuicideSheep",
+        "playlistId": "PLDfKAXSi6kUafKlwAurWST8zb4-Zy1JcU",
+        "position": 62,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wY6AzYsfwCI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "wY6AzYsfwCI",
+        "videoPublishedAt": "2013-11-05T19:03:43Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "aF3HN01C5KCDZLq9CBG6F9n_NrE",
+      "id": "UExEZktBWFNpNmtVYWZLbHdBdXJXU1Q4emI0LVp5MUpjVS4wRjhFM0MxMTU1MEUzQ0VB",
+      "snippet": {
+        "publishedAt": "2017-04-13T19:36:26Z",
+        "channelId": "UC5nc_ZtjKW1htCVZVRxlQAQ",
+        "title": "Kredo - Transistor",
+        "description": "Kredo - Transistor\n\n⬙  FAVOURITES ON SPOTIFY ⬙\n⇥ http://mrsuicidesheep.com/favourites\n\n'Experimental Week', Day 1.\nFor those of you that don't know what 'Experimental Week' is... It's a week where I upload stuff that is kind of different to the usual. A week where I try to introduce you guys to new things and break down the boundaries of sticking to certain genres. I hope you guys enjoy it.\n\nThis track is fricking epic! Reminds me of Justice or DANGER.\nGrab this track along with Kredo's new album for free by liking his facebook page.\nhttps://www.facebook.com/OfficialKredo\nhttps://soundcloud.com/officialkredo\nhttps://twitter.com/officialkredo\n\nArtwork by Jonas De Ro\nhttp://fav.me/d6l7m4q\nhttps://www.facebook.com/jonas.dero\n\n⬗ Sheepy Store ⬗\n⇥ http://mrsuicidesheep.com/store\n\n⬖ Submit Music & Art ⬖\n⇥ http://mrsuicidesheep.com/submit\n\n⬙ Sheepy Instagram ⬙\n⇥ http://mrsuicidesheep.com/insta\n\n⬘ Spotify: Channel Uploads ⬘\n⇥ http://mrsuicidesheep.com/channeluploads\n\n⬗ Spotify: Seeking Blue ⬗\n⇥ http://mrsuicidesheep.com/skblueplaylist",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1Bo7H6iwe-0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1Bo7H6iwe-0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1Bo7H6iwe-0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1Bo7H6iwe-0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1Bo7H6iwe-0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MrSuicideSheep",
+        "playlistId": "PLDfKAXSi6kUafKlwAurWST8zb4-Zy1JcU",
+        "position": 63,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1Bo7H6iwe-0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "1Bo7H6iwe-0",
+        "videoPublishedAt": "2013-11-04T19:02:13Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HdN-PLVg3L24C3-pdpMoYw-n5nM",
+      "id": "UExEZktBWFNpNmtVYWZLbHdBdXJXU1Q4emI0LVp5MUpjVS5CNTZFOTNGQzZEODg1RUQx",
+      "snippet": {
+        "publishedAt": "2017-04-13T19:36:26Z",
+        "channelId": "UC5nc_ZtjKW1htCVZVRxlQAQ",
+        "title": "Vancouver Sleep Clinic - Vapour",
+        "description": "Vancouver Sleep Clinic - Vapour\n\n⬙  FAVOURITES ON SPOTIFY ⬙\n⇥ http://mrsuicidesheep.com/favourites\n\nDay 7.\nSomething soothing to end the week.\nPurchase.. https://itunes.apple.com/gb/album/vap...\n\nVancouver Sleep Clinic\nhttps://soundcloud.com/vancouversleep...\nhttps://www.facebook.com/VancouverSle...\nhttp://www.youtube.com/user/vancouver...\n\nPicture by Piotr Stanislawski\nhttp://www.flickr.com/photos/pedro4d/...\n\n⬗ Sheepy Store ⬗\n⇥ http://mrsuicidesheep.com/store\n\n⬖ Submit Music & Art ⬖\n⇥ http://mrsuicidesheep.com/submit\n\n⬙ Sheepy Instagram ⬙\n⇥ http://mrsuicidesheep.com/insta\n\n⬘ Spotify: Channel Uploads ⬘\n⇥ http://mrsuicidesheep.com/channeluploads\n\n⬗ Spotify: Seeking Blue ⬗\n⇥ http://mrsuicidesheep.com/skblueplaylist",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5p3sTork75o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5p3sTork75o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5p3sTork75o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5p3sTork75o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5p3sTork75o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MrSuicideSheep",
+        "playlistId": "PLDfKAXSi6kUafKlwAurWST8zb4-Zy1JcU",
+        "position": 64,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5p3sTork75o"
+        }
+      },
+      "contentDetails": {
+        "videoId": "5p3sTork75o",
+        "videoPublishedAt": "2013-09-01T19:13:28Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XvxWoNieqOI2XDmZE0zsmmRnNvo",
+      "id": "UExEZktBWFNpNmtVYWZLbHdBdXJXU1Q4emI0LVp5MUpjVS5CNTcxMDQ0NThBNzMxODYz",
+      "snippet": {
+        "publishedAt": "2017-04-13T19:36:26Z",
+        "channelId": "UC5nc_ZtjKW1htCVZVRxlQAQ",
+        "title": "The Kite String Tangle - Given The Chance",
+        "description": "The Kite String Tangle - Given The Chance\n\n⬙  FAVOURITES ON SPOTIFY ⬙\n⇥ http://mrsuicidesheep.com/favourites\n\nDay 5.\nhttps://itunes.apple.com/au/album/giv...\n\nThe Kite String Tangle\nhttps://soundcloud.com/thekitestringt...\nhttps://www.facebook.com/thekitestrin...\nhttps://twitter.com/TKSTmusic\n\nArtwork from the game Remember Me\n\n⬗ Sheepy Store ⬗\n⇥ http://mrsuicidesheep.com/store\n\n⬖ Submit Music & Art ⬖\n⇥ http://mrsuicidesheep.com/submit\n\n⬙ Sheepy Instagram ⬙\n⇥ http://mrsuicidesheep.com/insta\n\n⬘ Spotify: Channel Uploads ⬘\n⇥ http://mrsuicidesheep.com/channeluploads\n\n⬗ Spotify: Seeking Blue ⬗\n⇥ http://mrsuicidesheep.com/skblueplaylist",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6qBwQtTHu4g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6qBwQtTHu4g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6qBwQtTHu4g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6qBwQtTHu4g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6qBwQtTHu4g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MrSuicideSheep",
+        "playlistId": "PLDfKAXSi6kUafKlwAurWST8zb4-Zy1JcU",
+        "position": 65,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6qBwQtTHu4g"
+        }
+      },
+      "contentDetails": {
+        "videoId": "6qBwQtTHu4g",
+        "videoPublishedAt": "2013-08-30T19:02:06Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pyNt5WlrQjFEBOKPFNI8WzY-iWQ",
+      "id": "UExEZktBWFNpNmtVYWZLbHdBdXJXU1Q4emI0LVp5MUpjVS5ERkUyQTM0MzEwQjZCMTY5",
+      "snippet": {
+        "publishedAt": "2017-04-13T19:36:26Z",
+        "channelId": "UC5nc_ZtjKW1htCVZVRxlQAQ",
+        "title": "Chouchou - Teardrop",
+        "description": "Chouchou - Teardrop\n\n⬙  FAVOURITES ON SPOTIFY ⬙\n⇥ http://mrsuicidesheep.com/favourites\n\nDay 4.\nGorgeously eerie.\nhttp://chouchou.cc/songs/snowdrop/\n\nChouchou\nhttp://chouchou.cc/\nhttps://www.facebook.com/chouchouholic\nhttps://twitter.com/Chouchouholic\nhttp://www.youtube.com/user/chouchouh...\n\n⬗ Sheepy Store ⬗\n⇥ http://mrsuicidesheep.com/store\n\n⬖ Submit Music & Art ⬖\n⇥ http://mrsuicidesheep.com/submit\n\n⬙ Sheepy Instagram ⬙\n⇥ http://mrsuicidesheep.com/insta\n\n⬘ Spotify: Channel Uploads ⬘\n⇥ http://mrsuicidesheep.com/channeluploads\n\n⬗ Spotify: Seeking Blue ⬗\n⇥ http://mrsuicidesheep.com/skblueplaylist",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_e2cKBj6EqM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_e2cKBj6EqM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_e2cKBj6EqM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_e2cKBj6EqM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_e2cKBj6EqM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MrSuicideSheep",
+        "playlistId": "PLDfKAXSi6kUafKlwAurWST8zb4-Zy1JcU",
+        "position": 66,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_e2cKBj6EqM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "_e2cKBj6EqM",
+        "videoPublishedAt": "2013-08-29T18:28:10Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "sGlA3Uf7A0xNLISlg9OBjj6TlYE",
+      "id": "UExEZktBWFNpNmtVYWZLbHdBdXJXU1Q4emI0LVp5MUpjVS4xM0YyM0RDNDE4REQ1NDA0",
+      "snippet": {
+        "publishedAt": "2017-04-13T19:36:26Z",
+        "channelId": "UC5nc_ZtjKW1htCVZVRxlQAQ",
+        "title": "Ed Sheeran & Passenger - No Diggity vs. Thrift Shop (Kygo Remix)",
+        "description": "Ed Sheeran & Passenger - No Diggity vs. Thrift Shop (Kygo Remix)\n\n⬙  FAVOURITES ON SPOTIFY ⬙\n⇥ http://mrsuicidesheep.com/favourites\n\nDay 3.\n\nKygo\nhttps://soundcloud.com/kygo\nhttps://www.facebook.com/kygoofficial\n\nEd Sheeran\nhttps://www.facebook.com/EdSheeranMusic\nhttps://twitter.com/edsheeran\n\nPassenger\nhttps://www.facebook.com/PassengerOff...\nhttp://passengermusic.com\n\nPicture by Brian Storey\nhttp://500px.com/photo/22239071\nhttp://www.pleaseflash.me\nhttps://twitter.com/thestorey\nhttp://www.flickr.com/photos/thestorey\n\n⬗ Sheepy Store ⬗\n⇥ http://mrsuicidesheep.com/store\n\n⬖ Submit Music & Art ⬖\n⇥ http://mrsuicidesheep.com/submit\n\n⬙ Sheepy Instagram ⬙\n⇥ http://mrsuicidesheep.com/insta\n\n⬘ Spotify: Channel Uploads ⬘\n⇥ http://mrsuicidesheep.com/channeluploads\n\n⬗ Spotify: Seeking Blue ⬗\n⇥ http://mrsuicidesheep.com/skblueplaylist",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_FKld2FGBPM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_FKld2FGBPM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_FKld2FGBPM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_FKld2FGBPM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_FKld2FGBPM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MrSuicideSheep",
+        "playlistId": "PLDfKAXSi6kUafKlwAurWST8zb4-Zy1JcU",
+        "position": 67,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_FKld2FGBPM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "_FKld2FGBPM",
+        "videoPublishedAt": "2013-08-28T18:02:31Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Kyv3d1snB3jn0JkJKVOYBS2NReU",
+      "id": "UExEZktBWFNpNmtVYWZLbHdBdXJXU1Q4emI0LVp5MUpjVS42MjYzMTMyQjA0QURCN0JF",
+      "snippet": {
+        "publishedAt": "2017-04-13T19:36:26Z",
+        "channelId": "UC5nc_ZtjKW1htCVZVRxlQAQ",
+        "title": "Grizmatik - My People",
+        "description": "Grizmatik - My People\n\n⬙  FAVOURITES ON SPOTIFY ⬙\n⇥ http://mrsuicidesheep.com/favourites\n\nSoulful funk for day 2.\n\nGrizmatik\nhttps://www.facebook.com/Grizmatik\nhttp://www.youtube.com/grizmatik\n\nArtwork by Justin Maller\nhttp://justinmaller.com/\nhttps://twitter.com/justinmaller\nhttp://www.behance.net/justinmaller\n\n⬗ Sheepy Store ⬗\n⇥ http://mrsuicidesheep.com/store\n\n⬖ Submit Music & Art ⬖\n⇥ http://mrsuicidesheep.com/submit\n\n⬙ Sheepy Instagram ⬙\n⇥ http://mrsuicidesheep.com/insta\n\n⬘ Spotify: Channel Uploads ⬘\n⇥ http://mrsuicidesheep.com/channeluploads\n\n⬗ Spotify: Seeking Blue ⬗\n⇥ http://mrsuicidesheep.com/skblueplaylist",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/A41l3a1396I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/A41l3a1396I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/A41l3a1396I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/A41l3a1396I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/A41l3a1396I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MrSuicideSheep",
+        "playlistId": "PLDfKAXSi6kUafKlwAurWST8zb4-Zy1JcU",
+        "position": 68,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "A41l3a1396I"
+        }
+      },
+      "contentDetails": {
+        "videoId": "A41l3a1396I",
+        "videoPublishedAt": "2013-08-27T18:18:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YnzROereOqvtUscuUTQ78j7Agks",
+      "id": "UExEZktBWFNpNmtVYWZLbHdBdXJXU1Q4emI0LVp5MUpjVS40MDNEMzA0QTBFRThFMzBE",
+      "snippet": {
+        "publishedAt": "2017-04-13T19:36:26Z",
+        "channelId": "UC5nc_ZtjKW1htCVZVRxlQAQ",
+        "title": "astronomyy - Things I'd Do For U",
+        "description": "astronomyy - Things I'd Do For U\n\n⬙  FAVOURITES ON SPOTIFY ⬙\n⇥ http://mrsuicidesheep.com/favourites\n\nGoing to do another experimental week. Hope you guys enjoy the tracks!\nDay 1.\n\nastronomyy\nhttps://soundcloud.com/astronomyy\nhttp://astronomyy.com/\nhttps://www.facebook.com/Astr0nomyy\nhttps://twitter.com/astronomyy_\n\nPicture by me :)\n\n⬗ Sheepy Store ⬗\n⇥ http://mrsuicidesheep.com/store\n\n⬖ Submit Music & Art ⬖\n⇥ http://mrsuicidesheep.com/submit\n\n⬙ Sheepy Instagram ⬙\n⇥ http://mrsuicidesheep.com/insta\n\n⬘ Spotify: Channel Uploads ⬘\n⇥ http://mrsuicidesheep.com/channeluploads\n\n⬗ Spotify: Seeking Blue ⬗\n⇥ http://mrsuicidesheep.com/skblueplaylist",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sZOejrGGBA4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sZOejrGGBA4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sZOejrGGBA4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sZOejrGGBA4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sZOejrGGBA4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MrSuicideSheep",
+        "playlistId": "PLDfKAXSi6kUafKlwAurWST8zb4-Zy1JcU",
+        "position": 69,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sZOejrGGBA4"
+        }
+      },
+      "contentDetails": {
+        "videoId": "sZOejrGGBA4",
+        "videoPublishedAt": "2013-08-26T19:00:17Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cMIkFdx8PNYwTythuFY9qnlYfSM",
+      "id": "UExEZktBWFNpNmtVYWZLbHdBdXJXU1Q4emI0LVp5MUpjVS42RTNCOEMxREI3Q0VDMjU2",
+      "snippet": {
+        "publishedAt": "2017-04-13T19:36:26Z",
+        "channelId": "UC5nc_ZtjKW1htCVZVRxlQAQ",
+        "title": "Ghost Loft - So High",
+        "description": "Ghost Loft - So High\n\n⬙  FAVOURITES ON SPOTIFY ⬙\n⇥ http://mrsuicidesheep.com/favourites\n\nDay 7.\nLast track of the 'Experimental Week' and this is one of my favourite tracks this year.\nPurchase\nhttps://itunes.apple.com/us/album/so-...\nhttps://itunes.apple.com/album/kitsun...\n\nGhost Loft\nhttps://soundcloud.com/ghostloft\nhttp://www.ghostloft.com/\nhttps://www.facebook.com/GhostLoft\nhttps://twitter.com/ghostloft\n\nPicture by Me :)\n\n⬗ Sheepy Store ⬗\n⇥ http://mrsuicidesheep.com/store\n\n⬖ Submit Music & Art ⬖\n⇥ http://mrsuicidesheep.com/submit\n\n⬙ Sheepy Instagram ⬙\n⇥ http://mrsuicidesheep.com/insta\n\n⬘ Spotify: Channel Uploads ⬘\n⇥ http://mrsuicidesheep.com/channeluploads\n\n⬗ Spotify: Seeking Blue ⬗\n⇥ http://mrsuicidesheep.com/skblueplaylist",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uy8MfFvFEEY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uy8MfFvFEEY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uy8MfFvFEEY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uy8MfFvFEEY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uy8MfFvFEEY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MrSuicideSheep",
+        "playlistId": "PLDfKAXSi6kUafKlwAurWST8zb4-Zy1JcU",
+        "position": 70,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uy8MfFvFEEY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "uy8MfFvFEEY",
+        "videoPublishedAt": "2013-05-12T19:55:18Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7c9QpTwkhaHedvW1CPjB0S78nio",
+      "id": "UExEZktBWFNpNmtVYWZLbHdBdXJXU1Q4emI0LVp5MUpjVS43QzNCNkZENzIyMDY2MjZB",
+      "snippet": {
+        "publishedAt": "2017-04-13T19:36:26Z",
+        "channelId": "UC5nc_ZtjKW1htCVZVRxlQAQ",
+        "title": "MÖWE - Blauer Tag (Robin Schulz Remix)",
+        "description": "MÖWE - Blauer Tag (Robin Schulz Remix)\n\n⬙  FAVOURITES ON SPOTIFY ⬙\n⇥ http://mrsuicidesheep.com/favourites\n\nDay 6.\nPure Summer vibes!\n\nRobin Schulz\nhttps://soundcloud.com/robin-schulz\nhttps://www.facebook.com/robin.schulz...\nhttp://www.youtube.com/user/robin37987\n\nMÖWE\nhttps://soundcloud.com/m-we-1\nhttps://www.facebook.com/MOEWEmusic\n\nPicture by ?\nIf anyone knows who took this picture please link me to their page(s) so I can credit them properly.\n\n⬗ Sheepy Store ⬗\n⇥ http://mrsuicidesheep.com/store\n\n⬖ Submit Music & Art ⬖\n⇥ http://mrsuicidesheep.com/submit\n\n⬙ Sheepy Instagram ⬙\n⇥ http://mrsuicidesheep.com/insta\n\n⬘ Spotify: Channel Uploads ⬘\n⇥ http://mrsuicidesheep.com/channeluploads\n\n⬗ Spotify: Seeking Blue ⬗\n⇥ http://mrsuicidesheep.com/skblueplaylist",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LX2SkUeLo5k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LX2SkUeLo5k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LX2SkUeLo5k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LX2SkUeLo5k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LX2SkUeLo5k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MrSuicideSheep",
+        "playlistId": "PLDfKAXSi6kUafKlwAurWST8zb4-Zy1JcU",
+        "position": 71,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LX2SkUeLo5k"
+        }
+      },
+      "contentDetails": {
+        "videoId": "LX2SkUeLo5k",
+        "videoPublishedAt": "2013-05-11T16:30:09Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YhSAtRmgH8Qtrhi-mxBBCzDLMog",
+      "id": "UExEZktBWFNpNmtVYWZLbHdBdXJXU1Q4emI0LVp5MUpjVS5EQkE3RTJCQTJEQkFBQTcz",
+      "snippet": {
+        "publishedAt": "2017-04-13T19:36:26Z",
+        "channelId": "UC5nc_ZtjKW1htCVZVRxlQAQ",
+        "title": "Tuxedo - Do It",
+        "description": "Tuxedo - Do It\n\n⬙  FAVOURITES ON SPOTIFY ⬙\n⇥ http://mrsuicidesheep.com/favourites\n\nThe funk is strong on this one! I don't think I have ever uploaded something like this. I hope you guys enjoy. \nDownload...http://bit.ly/1BOpJ3B\n\nTuxedo\nhttps://soundcloud.com/tuxedofunk\nhttp://www.tuxedofunk.com/\nhttps://twitter.com/tuxedo\n\nArtwork by ?\n\n⬗ Sheepy Store ⬗\n⇥ http://mrsuicidesheep.com/store\n\n⬖ Submit Music & Art ⬖\n⇥ http://mrsuicidesheep.com/submit\n\n⬙ Sheepy Instagram ⬙\n⇥ http://mrsuicidesheep.com/insta\n\n⬘ Spotify: Channel Uploads ⬘\n⇥ http://mrsuicidesheep.com/channeluploads\n\n⬗ Spotify: Seeking Blue ⬗\n⇥ http://mrsuicidesheep.com/skblueplaylist",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G4VAdWJXyFk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G4VAdWJXyFk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G4VAdWJXyFk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/G4VAdWJXyFk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/G4VAdWJXyFk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MrSuicideSheep",
+        "playlistId": "PLDfKAXSi6kUafKlwAurWST8zb4-Zy1JcU",
+        "position": 72,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "G4VAdWJXyFk"
+        }
+      },
+      "contentDetails": {
+        "videoId": "G4VAdWJXyFk",
+        "videoPublishedAt": "2013-05-10T18:21:56Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mLlMr6HwoGohsx4IvQH9fwxTtO4",
+      "id": "UExEZktBWFNpNmtVYWZLbHdBdXJXU1Q4emI0LVp5MUpjVS4yQzk4QTA5QjkzMTFFOEI1",
+      "snippet": {
+        "publishedAt": "2017-04-13T19:36:26Z",
+        "channelId": "UC5nc_ZtjKW1htCVZVRxlQAQ",
+        "title": "Willow Beats - Alchemy",
+        "description": "Willow Beats - Alchemy\n\n⬙  FAVOURITES ON SPOTIFY ⬙\n⇥ http://mrsuicidesheep.com/favourites\n\nDay 4.\nQueen's love!\nPurchase\nhttp://willowbeats.bandcamp.com\n\nWillow Beats\nhttps://soundcloud.com/willowbeats\n\nArtwork by Vladimir Nikulin\nhttp://500px.com/Masson\n\n⬗ Sheepy Store ⬗\n⇥ http://mrsuicidesheep.com/store\n\n⬖ Submit Music & Art ⬖\n⇥ http://mrsuicidesheep.com/submit\n\n⬙ Sheepy Instagram ⬙\n⇥ http://mrsuicidesheep.com/insta\n\n⬘ Spotify: Channel Uploads ⬘\n⇥ http://mrsuicidesheep.com/channeluploads\n\n⬗ Spotify: Seeking Blue ⬗\n⇥ http://mrsuicidesheep.com/skblueplaylist",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5Lk1Fpw1bfc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5Lk1Fpw1bfc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5Lk1Fpw1bfc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5Lk1Fpw1bfc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5Lk1Fpw1bfc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MrSuicideSheep",
+        "playlistId": "PLDfKAXSi6kUafKlwAurWST8zb4-Zy1JcU",
+        "position": 73,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5Lk1Fpw1bfc"
+        }
+      },
+      "contentDetails": {
+        "videoId": "5Lk1Fpw1bfc",
+        "videoPublishedAt": "2013-05-09T19:30:09Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HDSxkYh0FLzJ9_3oTPzxNiZtBZ0",
+      "id": "UExEZktBWFNpNmtVYWZLbHdBdXJXU1Q4emI0LVp5MUpjVS45NDlDQUFFOThDMTAxQjUw",
+      "snippet": {
+        "publishedAt": "2017-04-13T19:36:26Z",
+        "channelId": "UC5nc_ZtjKW1htCVZVRxlQAQ",
+        "title": "Daniel Ryan - Nagasaki",
+        "description": "Daniel Ryan - Nagasaki\n\n⬙  FAVOURITES ON SPOTIFY ⬙\n⇥ http://mrsuicidesheep.com/favourites\n\nDay 3.\nWow! Just wow! What a unique track.\n\nGive your love to Daniel Ryan\nhttps://soundcloud.com/danielryanisaname\nhttps://www.facebook.com/pages/Daniel...\nhttps://twitter.com/danielryanmusic\n\nArtwork by Kyle Gordon\nhttps://www.facebook.com/mrdrbear/\nhttp://kylegordon.electricbare.com/\n\n⬗ Sheepy Store ⬗\n⇥ http://mrsuicidesheep.com/store\n\n⬖ Submit Music & Art ⬖\n⇥ http://mrsuicidesheep.com/submit\n\n⬙ Sheepy Instagram ⬙\n⇥ http://mrsuicidesheep.com/insta\n\n⬘ Spotify: Channel Uploads ⬘\n⇥ http://mrsuicidesheep.com/channeluploads\n\n⬗ Spotify: Seeking Blue ⬗\n⇥ http://mrsuicidesheep.com/skblueplaylist",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/48f26CeT710/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/48f26CeT710/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/48f26CeT710/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/48f26CeT710/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/48f26CeT710/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MrSuicideSheep",
+        "playlistId": "PLDfKAXSi6kUafKlwAurWST8zb4-Zy1JcU",
+        "position": 74,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "48f26CeT710"
+        }
+      },
+      "contentDetails": {
+        "videoId": "48f26CeT710",
+        "videoPublishedAt": "2013-05-08T19:34:53Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "G7ygGgCjEKG8eqSvd9lkbEob1Ys",
+      "id": "UExEZktBWFNpNmtVYWZLbHdBdXJXU1Q4emI0LVp5MUpjVS4xN0Y2QjVBOEI2MzQ5OUM5",
+      "snippet": {
+        "publishedAt": "2017-04-13T19:36:26Z",
+        "channelId": "UC5nc_ZtjKW1htCVZVRxlQAQ",
+        "title": "Generationals - You Got Me",
+        "description": "Generationals - You Got Me\n\n⬙  FAVOURITES ON SPOTIFY ⬙\n⇥ http://mrsuicidesheep.com/favourites\n\nDay 1.\nToday is the start of 'Experimental Week No. 2'. A whole week of tracks that are kind of different to the usual uploads. I hope you guys enjoy it. This one just puts me in the best of moods :)\nhttps://itunes.apple.com/ca/album/hez...\n\nGenerationals\nhttp://www.generationals.com/\nhttps://www.facebook.com/generationals\nhttps://twitter.com/generationals\n\nArtwork by Nuri\nhttp://fav.me/d60mddf\n\n⬗ Sheepy Store ⬗\n⇥ http://mrsuicidesheep.com/store\n\n⬖ Submit Music & Art ⬖\n⇥ http://mrsuicidesheep.com/submit\n\n⬙ Sheepy Instagram ⬙\n⇥ http://mrsuicidesheep.com/insta\n\n⬘ Spotify: Channel Uploads ⬘\n⇥ http://mrsuicidesheep.com/channeluploads\n\n⬗ Spotify: Seeking Blue ⬗\n⇥ http://mrsuicidesheep.com/skblueplaylist",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/H7S4FgYxcSE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/H7S4FgYxcSE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/H7S4FgYxcSE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/H7S4FgYxcSE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/H7S4FgYxcSE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MrSuicideSheep",
+        "playlistId": "PLDfKAXSi6kUafKlwAurWST8zb4-Zy1JcU",
+        "position": 75,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "H7S4FgYxcSE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "H7S4FgYxcSE",
+        "videoPublishedAt": "2013-05-06T18:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7TLYXY2xMy97Tnpjq_fdXxX_b7k",
+      "id": "UExEZktBWFNpNmtVYWZLbHdBdXJXU1Q4emI0LVp5MUpjVS5FQUY2Qzk4RUFDN0ZFRkZF",
+      "snippet": {
+        "publishedAt": "2017-04-13T19:36:26Z",
+        "channelId": "UC5nc_ZtjKW1htCVZVRxlQAQ",
+        "title": "Ólafur Arnalds - This Place Was A Shelter",
+        "description": "Ólafur Arnalds - This Place Was A Shelter\n\n⬙  FAVOURITES ON SPOTIFY ⬙\n⇥ http://mrsuicidesheep.com/favourites \n\n\nI have wanted to upload a Ólafur Arnalds track for so long no. His music is breathtakingly beautiful. His new album is out now. A purchase is highly recommended.\nhttps://itunes.apple.com/gb/album/for...\n\nÓlafur Arnalds\nhttps://www.facebook.com/olafurarnalds\nhttp://olafurarnalds.com\nhttps://soundcloud.com/olafur-arnalds\n\nReleased by Mercury Classics\nhttps://www.facebook.com/MercuryClassics\nhttps://twitter.com/MercClassics\nhttp://www.mercuryclassics.com\n\nArtwork by Shirakaba Toshiharu\nhttp://www.zerochan.net/928859\n\n⬗ Sheepy Store ⬗\n⇥ http://mrsuicidesheep.com/store\n\n⬖ Submit Music & Art ⬖\n⇥ http://mrsuicidesheep.com/submit\n\n⬙ Sheepy Instagram ⬙\n⇥ http://mrsuicidesheep.com/insta\n\n⬘ Spotify: Channel Uploads ⬘\n⇥ http://mrsuicidesheep.com/channeluploads\n\n⬗ Spotify: Seeking Blue ⬗\n⇥ http://mrsuicidesheep.com/skblueplaylist",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7jAjfAvnAiU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7jAjfAvnAiU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7jAjfAvnAiU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7jAjfAvnAiU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7jAjfAvnAiU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MrSuicideSheep",
+        "playlistId": "PLDfKAXSi6kUafKlwAurWST8zb4-Zy1JcU",
+        "position": 76,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7jAjfAvnAiU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "7jAjfAvnAiU",
+        "videoPublishedAt": "2013-02-28T19:47:55Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8qKuicspuJpg27cEkuVRlnA_6OM",
+      "id": "UExEZktBWFNpNmtVYWZLbHdBdXJXU1Q4emI0LVp5MUpjVS5CMEVBRUJERkUyNTBENTkz",
+      "snippet": {
+        "publishedAt": "2017-04-13T19:36:26Z",
+        "channelId": "UC5nc_ZtjKW1htCVZVRxlQAQ",
+        "title": "Bit Funk - The Long Road Ahead",
+        "description": "Bit Funk - The Long Road Ahead\n\n⬙  FAVOURITES ON SPOTIFY ⬙\n⇥ http://mrsuicidesheep.com/favourites \n\nDay 6!\n\nBit Funk\nhttp://soundcloud.com/iknowbitfunk/\nhttp://www.facebook.com/bitfunk\nhttp://www.bitfunk.com\n\nArtwork by Rob Dobee\nhttp://fav.me/d1xp2r1\n\n⬗ Sheepy Store ⬗\n⇥ http://mrsuicidesheep.com/store\n\n⬖ Submit Music & Art ⬖\n⇥ http://mrsuicidesheep.com/submit\n\n⬙ Sheepy Instagram ⬙\n⇥ http://mrsuicidesheep.com/insta\n\n⬘ Spotify: Channel Uploads ⬘\n⇥ http://mrsuicidesheep.com/channeluploads\n\n⬗ Spotify: Seeking Blue ⬗\n⇥ http://mrsuicidesheep.com/skblueplaylist",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Km1uG1TzdeQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Km1uG1TzdeQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Km1uG1TzdeQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Km1uG1TzdeQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Km1uG1TzdeQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MrSuicideSheep",
+        "playlistId": "PLDfKAXSi6kUafKlwAurWST8zb4-Zy1JcU",
+        "position": 77,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Km1uG1TzdeQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Km1uG1TzdeQ",
+        "videoPublishedAt": "2013-02-02T18:48:29Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "363Mv5hkbNzRWDHd9R0yGs-5dm4",
+      "id": "UExEZktBWFNpNmtVYWZLbHdBdXJXU1Q4emI0LVp5MUpjVS4xNjIyNEE0MDEyRDlCMjBE",
+      "snippet": {
+        "publishedAt": "2017-04-13T19:36:26Z",
+        "channelId": "UC5nc_ZtjKW1htCVZVRxlQAQ",
+        "title": "Rob Viktum - 4/17/1975",
+        "description": "Rob Viktum - 4/17/1975\n\n⬙  FAVOURITES ON SPOTIFY ⬙\n⇥ http://mrsuicidesheep.com/favourites \n\nDay 5!\nJust chilling.\nhttp://tenmillionsounds.bandcamp.com/...\n\nRob Viktum\nhttp://soundcloud.com/robviktum\nhttps://www.facebook.com/DjRobVik\nhttp://twitter.com/RobViktum\n\nPicture by Skybase\nhttp://fav.me/d2l7yy3\n\n⬗ Sheepy Store ⬗\n⇥ http://mrsuicidesheep.com/store\n\n⬖ Submit Music & Art ⬖\n⇥ http://mrsuicidesheep.com/submit\n\n⬙ Sheepy Instagram ⬙\n⇥ http://mrsuicidesheep.com/insta\n\n⬘ Spotify: Channel Uploads ⬘\n⇥ http://mrsuicidesheep.com/channeluploads\n\n⬗ Spotify: Seeking Blue ⬗\n⇥ http://mrsuicidesheep.com/skblueplaylist",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7uhYYnf7kUw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7uhYYnf7kUw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7uhYYnf7kUw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7uhYYnf7kUw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7uhYYnf7kUw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MrSuicideSheep",
+        "playlistId": "PLDfKAXSi6kUafKlwAurWST8zb4-Zy1JcU",
+        "position": 78,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7uhYYnf7kUw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "7uhYYnf7kUw",
+        "videoPublishedAt": "2013-02-01T19:02:29Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vQfGqnbb_NWQ5mCQLn26ns5mPpI",
+      "id": "UExEZktBWFNpNmtVYWZLbHdBdXJXU1Q4emI0LVp5MUpjVS44QTY2MEEzNzBFQUJCMUQ2",
+      "snippet": {
+        "publishedAt": "2017-04-13T19:36:26Z",
+        "channelId": "UC5nc_ZtjKW1htCVZVRxlQAQ",
+        "title": "Atra Aeterna - When The World Ends",
+        "description": "Atra Aeterna - When The World Ends\n\n⬙  FAVOURITES ON SPOTIFY ⬙\n⇥ http://mrsuicidesheep.com/favourites \n\nDay 3!\nhttp://label.idmforums.com/idmf003-mi...\n\nAtra Aeterna\nhttp://atraaeterna.com/\nhttps://www.facebook.com/AtraAeternaM...\nhttps://twitter.com/AtraAeterna\n\nArtwork by Ka-92\nhttp://fav.me/d4qvws6\nhttp://www.pixiv.net/member.php?id=9380\n\n⬗ Sheepy Store ⬗\n⇥ http://mrsuicidesheep.com/store\n\n⬖ Submit Music & Art ⬖\n⇥ http://mrsuicidesheep.com/submit\n\n⬙ Sheepy Instagram ⬙\n⇥ http://mrsuicidesheep.com/insta\n\n⬘ Spotify: Channel Uploads ⬘\n⇥ http://mrsuicidesheep.com/channeluploads\n\n⬗ Spotify: Seeking Blue ⬗\n⇥ http://mrsuicidesheep.com/skblueplaylist",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/L4qNdH1TYE0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/L4qNdH1TYE0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/L4qNdH1TYE0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/L4qNdH1TYE0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/L4qNdH1TYE0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MrSuicideSheep",
+        "playlistId": "PLDfKAXSi6kUafKlwAurWST8zb4-Zy1JcU",
+        "position": 79,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "L4qNdH1TYE0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "L4qNdH1TYE0",
+        "videoPublishedAt": "2013-01-30T19:58:25Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_fyZqD7a_j_RmtkZm3LnqyHB-Ho",
+      "id": "UExEZktBWFNpNmtVYWZLbHdBdXJXU1Q4emI0LVp5MUpjVS4zQTkzRjgxRTY0OEU0MkM3",
+      "snippet": {
+        "publishedAt": "2017-04-13T19:36:26Z",
+        "channelId": "UC5nc_ZtjKW1htCVZVRxlQAQ",
+        "title": "Wild Belle - It's Too Late (Employee of the Year Remix)",
+        "description": "Wild Belle - It's Too Late (Employee of the Year Remix)\n\n⬙  FAVOURITES ON SPOTIFY ⬙\n⇥ http://mrsuicidesheep.com/favourites \n\nA whole week of 'experimental' uploads.\nDay one!\n\nEmployee of the Year\nhttps://soundcloud.com/employeeofthey...\nhttps://www.facebook.com/EmployeeOfTh...\nhttp://employeeoftheyearmusic.tumblr....\n\nWild Belle\nhttp://soundcloud.com/wildbelle\nhttp://www.facebook.com/wildbelle\nhttp://www.twitter.com/wildbellemusic\n\nPicture by ?\nIf anyone knows who took this picture, please link me to their page.\n\n⬗ Sheepy Store ⬗\n⇥ http://mrsuicidesheep.com/store\n\n⬖ Submit Music & Art ⬖\n⇥ http://mrsuicidesheep.com/submit\n\n⬙ Sheepy Instagram ⬙\n⇥ http://mrsuicidesheep.com/insta\n\n⬘ Spotify: Channel Uploads ⬘\n⇥ http://mrsuicidesheep.com/channeluploads\n\n⬗ Spotify: Seeking Blue ⬗\n⇥ http://mrsuicidesheep.com/skblueplaylist",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5Xl2n3vmCKI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5Xl2n3vmCKI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5Xl2n3vmCKI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5Xl2n3vmCKI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5Xl2n3vmCKI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MrSuicideSheep",
+        "playlistId": "PLDfKAXSi6kUafKlwAurWST8zb4-Zy1JcU",
+        "position": 80,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5Xl2n3vmCKI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "5Xl2n3vmCKI",
+        "videoPublishedAt": "2013-01-28T19:04:20Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PxjoBhcDjkFZfqo-5gbUAB62bjQ",
+      "id": "UExEZktBWFNpNmtVYWZLbHdBdXJXU1Q4emI0LVp5MUpjVS4xNTZBNUQxMDZBQzFGMjkw",
+      "snippet": {
+        "publishedAt": "2017-04-13T19:36:26Z",
+        "channelId": "UC5nc_ZtjKW1htCVZVRxlQAQ",
+        "title": "Apparat - A Violent Sky",
+        "description": "Apparat - A Violent Sky\n\n⬙  FAVOURITES ON SPOTIFY ⬙\n⇥ http://mrsuicidesheep.com/favourites \n\nLiterally my favourite song at the moment. This is something very different for the channel. I hope you guys can appreciate the beauty of this track.\nPurchase\nhttps://itunes.apple.com/de/album/kri...\n\nApparat\nhttps://soundcloud.com/apparat\nhttps://www.facebook.com/apparat.offi...\n\nArtwork by MaoThePirate\nhttp://fav.me/d4ehq8s\n\n⬗ Sheepy Store ⬗\n⇥ http://mrsuicidesheep.com/store\n\n⬖ Submit Music & Art ⬖\n⇥ http://mrsuicidesheep.com/submit\n\n⬙ Sheepy Instagram ⬙\n⇥ http://mrsuicidesheep.com/insta\n\n⬘ Spotify: Channel Uploads ⬘\n⇥ http://mrsuicidesheep.com/channeluploads\n\n⬗ Spotify: Seeking Blue ⬗\n⇥ http://mrsuicidesheep.com/skblueplaylist",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AwWXTByxJyI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AwWXTByxJyI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AwWXTByxJyI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AwWXTByxJyI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AwWXTByxJyI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MrSuicideSheep",
+        "playlistId": "PLDfKAXSi6kUafKlwAurWST8zb4-Zy1JcU",
+        "position": 81,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "AwWXTByxJyI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "AwWXTByxJyI",
+        "videoPublishedAt": "2013-01-20T20:58:16Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4HYAsjm-feLwvslp1l4GwMH0yvE",
+      "id": "UExEZktBWFNpNmtVYWZLbHdBdXJXU1Q4emI0LVp5MUpjVS4wMDFGNzBEOTU4Q0Y1Q0RG",
+      "snippet": {
+        "publishedAt": "2017-04-13T19:36:26Z",
+        "channelId": "UC5nc_ZtjKW1htCVZVRxlQAQ",
+        "title": "Seven Lions - Isis",
+        "description": "Seven Lions - Isis\n\nThis is an experimental upload. I will not regularly upload stuff like this. I really enjoyed listening to this track as you can hear how much effort has gone into the production. Seven Lions really knows how to create great atmospheric tracks. \n\nGrab this track for free from Seven Lion's soundcloud. This is part of the promotion for his forthcoming Polarize EP on Viper Recordings.\nhttp://soundcloud.com/jeff-montalvo\nhttp://www.facebook.com/SevenLions?v=...\n\nViper Recordings:\nhttp://www.viperrecordings.co.uk/\nhttp://www.facebook.com/viperrecordings\n\nArtwork by Yvan Feusi\nhttp://aiven.net\n\n⬗ Sheepy Store ⬗\n⇥ http://mrsuicidesheep.com/store\n\n⬖ Submit Music & Art ⬖\n⇥ http://mrsuicidesheep.com/submit\n\n⬙ Sheepy Instagram ⬙\n⇥ http://mrsuicidesheep.com/insta\n\n⬘ Spotify: Channel Uploads ⬘\n⇥ http://mrsuicidesheep.com/channeluploads\n\n⬗ Spotify: Seeking Blue ⬗\n⇥ http://mrsuicidesheep.com/skblueplaylist",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vIo14jKF9uI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vIo14jKF9uI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vIo14jKF9uI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vIo14jKF9uI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vIo14jKF9uI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MrSuicideSheep",
+        "playlistId": "PLDfKAXSi6kUafKlwAurWST8zb4-Zy1JcU",
+        "position": 82,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vIo14jKF9uI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "vIo14jKF9uI",
+        "videoPublishedAt": "2012-04-16T19:52:38Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VYkYODqIE1SjfTIdQrN1VKCkEds",
+      "id": "UExEZktBWFNpNmtVYWZLbHdBdXJXU1Q4emI0LVp5MUpjVS44QTA1QTQyRTc3M0VGQzYx",
+      "snippet": {
+        "publishedAt": "2017-04-13T19:36:26Z",
+        "channelId": "UC5nc_ZtjKW1htCVZVRxlQAQ",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "MrSuicideSheep",
+        "playlistId": "PLDfKAXSi6kUafKlwAurWST8zb4-Zy1JcU",
+        "position": 83,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TQLIpbqJsfg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "TQLIpbqJsfg"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 84,
+    "resultsPerPage": 50
+  }
+}
