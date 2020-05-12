@@ -19,7 +19,9 @@
     <% end %>
 
     <% @followers.each do |follower| %>
+    <section id= "follower-<%= follower.login %>">
       <%= link_to follower.login, follower.html_url %>
+    </section>
     <% end %>
 
     <% @followings.each do |following| %>
