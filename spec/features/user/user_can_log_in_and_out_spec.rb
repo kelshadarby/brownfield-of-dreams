@@ -21,8 +21,8 @@ describe 'User' do
     expect(page).to have_content(user.last_name)
   end
 
-  it 'can log out', :js do
-    WebMock.allow_net_connect!
+  it 'can log out', :vcr do
+    # WebMock.allow_net_connect!
     user = create(:user)
 
     visit login_path
@@ -40,7 +40,8 @@ describe 'User' do
 
     expect(current_path).to eq(root_path)
     expect(page).to_not have_content(user.first_name)
-    expect(page).to have_content('SIGN IN')
+
+    expect(page).to have_content('Sign In')
   end
 
   it 'is shown an error when incorrect info is entered' do
