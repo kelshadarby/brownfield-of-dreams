@@ -22,5 +22,8 @@ RSpec.describe "As a User" do
     within '#follower-caachz' do
       expect(page).to_not have_link("Add as Friend")
     end
+    within '#follower-kelshadarby' do
+      expect(page).to have_link("Add as Friend")
+    end
   end
 end

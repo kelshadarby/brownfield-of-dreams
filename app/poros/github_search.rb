@@ -7,6 +7,12 @@ class GithubSearch
     end[0..4]
   end
 
+  def get_username(user, github_token)
+    github_service = GithubService.new
+    username = github_service.github_username(github_token)
+    user.github_login = username[:login]
+  end
+
   def get_followers(github_token)
     github_service = GithubService.new
     follower_array = github_service.github_info("followers", github_token)

@@ -6,6 +6,7 @@ class UsersController < ApplicationController
       @followers = github_search.get_followers(current_user.github_token)
       @followings = github_search.get_followings(current_user.github_token)
     end
+
   end
 
   def new

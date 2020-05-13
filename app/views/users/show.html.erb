@@ -22,6 +22,9 @@
     <% @followers.each do |follower| %>
     <section id= "follower-<%= follower.login %>">
       <%= link_to follower.login, follower.html_url %>
+      <% if follower.site_user?(current_user) %>
+        <%= link_to "Add as Friend" %>
+      <% end %>
     </section>
     <% end %>
 

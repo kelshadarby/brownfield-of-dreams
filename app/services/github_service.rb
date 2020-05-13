@@ -3,6 +3,10 @@ class GithubService
     get_json("/user/#{path}?access_token=#{token}")
   end
 
+  def github_username(token)
+    get_json("/user?access_token=#{token}")
+  end
+
   private
 
   def get_json(url)
