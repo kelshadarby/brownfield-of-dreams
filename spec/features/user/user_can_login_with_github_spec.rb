@@ -18,7 +18,13 @@ RSpec.describe 'As a registered user' do
       }}})
   end
   it "I can sign with Github", :vcr do
-    user = create(:user)
+    user = User.create!(email: "jennyklich@gmail.com",
+                        first_name: "Jenny",
+                        last_name: "Klich",
+                        password: "password",
+                        role: 0,
+                        github_token: ENV['jenny_github_token'])
+
     allow_any_instance_of(ApplicationController).to receive(:current_user).and_return(user)
 
     visit '/dashboard'
