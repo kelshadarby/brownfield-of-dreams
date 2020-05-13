@@ -1,11 +1,11 @@
 class UsersController < ApplicationController
   def show
-    unless current_user.github_token.nil?
+    # unless current_user.github_token.nil?
       github_search = GithubSearch.new
       @repos = github_search.get_repos(current_user.github_token)
       @followers = github_search.get_followers(current_user.github_token)
       @followings = github_search.get_followings(current_user.github_token)
-    end
+    # end
   end
 
   def new

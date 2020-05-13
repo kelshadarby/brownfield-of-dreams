@@ -8,7 +8,7 @@ RSpec.describe 'As a registered user' do
       {"provider" => "github",
       'info' => { 'name' => 'Jennifer Klich' },
       'credentials' =>
-      { 'token' => ENV['TEST_KEY'],
+      { 'token' => ENV['jenny_github_token'],
         'expires' => false },
         'extra' =>
         { 'raw_info' =>
@@ -17,7 +17,7 @@ RSpec.describe 'As a registered user' do
             'name' => 'Jennifer Klich'
       }}})
   end
-  it "I can sign with Github" do
+  it "I can sign with Github", :vcr do
     user = create(:user)
     allow_any_instance_of(ApplicationController).to receive(:current_user).and_return(user)
 
@@ -25,6 +25,6 @@ RSpec.describe 'As a registered user' do
 
     click_on "Connect to Github"
 
-    expect(user.github_token).to eq(ENV["TEST_KEY"])
+    expect(user.github_token).to eq(ENV["jenny_github_token"])
   end
 end

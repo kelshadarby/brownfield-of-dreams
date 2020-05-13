@@ -1,0 +1,66 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.github.com/user/repos?access_token=
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Faraday v1.0.1
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 401
+      message: Unauthorized
+    headers:
+      Server:
+      - GitHub.com
+      Date:
+      - Wed, 13 May 2020 04:11:09 GMT
+      Content-Type:
+      - application/json; charset=utf-8
+      Content-Length:
+      - '121'
+      Status:
+      - 401 Unauthorized
+      X-Ratelimit-Limit:
+      - '60'
+      X-Ratelimit-Remaining:
+      - '45'
+      X-Ratelimit-Reset:
+      - '1589344910'
+      X-Github-Media-Type:
+      - github.v3; format=json
+      Access-Control-Expose-Headers:
+      - ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining,
+        X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval,
+        X-GitHub-Media-Type, Deprecation, Sunset
+      Access-Control-Allow-Origin:
+      - "*"
+      Strict-Transport-Security:
+      - max-age=31536000; includeSubdomains; preload
+      X-Frame-Options:
+      - deny
+      X-Content-Type-Options:
+      - nosniff
+      X-Xss-Protection:
+      - 1; mode=block
+      Referrer-Policy:
+      - origin-when-cross-origin, strict-origin-when-cross-origin
+      Content-Security-Policy:
+      - default-src 'none'
+      Vary:
+      - Accept-Encoding, Accept, X-Requested-With
+      X-Github-Request-Id:
+      - F4C3:41ED:578FB:F2F5F:5EBB735D
+    body:
+      encoding: UTF-8
+      string: '{"message":"Requires authentication","documentation_url":"https://developer.github.com/v3/repos/#list-your-repositories"}'
+    http_version: null
+  recorded_at: Wed, 13 May 2020 04:11:09 GMT
+recorded_with: VCR 5.1.0
