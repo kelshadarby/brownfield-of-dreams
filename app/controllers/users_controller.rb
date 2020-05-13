@@ -6,7 +6,13 @@ class UsersController < ApplicationController
       @followers = github_search.get_followers(current_user.github_token)
       @followings = github_search.get_followings(current_user.github_token)
     end
+    @friends = current_user.users
+  end
 
+  def update
+    login = User.find_by(github_login: params[:login])
+    current_user.users << login
+    redirect_to dashboard_path
   end
 
   def new

@@ -7,10 +7,8 @@ class GithubFollower
     @html_url = followers_params[:html_url]
   end
 
-  def site_user?(user)
-    search = GithubSearch.new
-    search.get_username(user, user.github_token)
-    site_user = User.where(github_login = self.login)
-    return true if !site_user.nil?
+  def site_user?
+    site_user = User.where("github_login = ?", self.login)
+    return true unless site_user.empty?
   end
 end
