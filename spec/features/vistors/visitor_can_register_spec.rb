@@ -1,6 +1,6 @@
 require 'rails_helper'
 
-describe 'vister can create an account', :vcr do
+describe 'vistor can create an account', :vcr do
   it ' visits the home page' do
     email = 'jimbob@aol.com'
     first_name = 'Jim'
@@ -27,6 +27,9 @@ describe 'vister can create an account', :vcr do
     click_on'Create Account'
 
     expect(current_path).to eq(dashboard_path)
+
+    expect(page).to have_content("Logged in as #{first_name}")
+    expect(page).to have_content("This account has not yet been activated. Please check your email.")
 
     expect(page).to have_content(email)
     expect(page).to have_content(first_name)
