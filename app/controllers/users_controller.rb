@@ -7,6 +7,12 @@ class UsersController < ApplicationController
       @followings = github_search.get_followings(current_user.github_token)
     end
     @friends = current_user.users
+    @bookmarks = current_user.videos.reduce({}) do |bookmark_tutorials, bookmark|
+      tutorial = Tutorial.find(bookmark.tutorial_id)
+      bookmark_tutorials[tutorial] = [] if bookmark_tutorials[tutorial].nil?
+      bookmark_tutorials[tutorial] << bookmark
+      bookmark_tutorials
+    end
   end
 
   def update
