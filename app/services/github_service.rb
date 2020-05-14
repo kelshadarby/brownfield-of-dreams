@@ -5,9 +5,15 @@ class GithubService
   end
 
   def github_username(token)
-    params = { access_token: token}
+    params = { access_token: token }
 
     get_json("/user", params)
+  end
+
+  def github_email_and_name(github_username, token)
+    params = { access_token: token }
+
+    get_json("/users/#{github_username}", params)
   end
 
   private

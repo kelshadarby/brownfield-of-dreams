@@ -6,12 +6,23 @@ class UsersController < ApplicationController
       @followers = github_search.get_followers(current_user.github_token)
       @followings = github_search.get_followings(current_user.github_token)
     end
+
     @friends = current_user.users
+
     @bookmarks = current_user.videos.reduce({}) do |bookmark_tutorials, bookmark|
       tutorial = Tutorial.find(bookmark.tutorial_id)
       bookmark_tutorials[tutorial] = [] if bookmark_tutorials[tutorial].nil?
       bookmark_tutorials[tutorial] << bookmark
       bookmark_tutorials
+    end
+
+    github_search_2 = GithubSearch.new
+    @invitee = github_search_2.get_email_and_name(params[:github_handle], current_user.github_token)
+    if @invitee[0]
+      EmailSenderMailer.with(user: current_user, email: @invitee[0], name: @invitee[1]).invite_email.deliver_now
+      flash.now[:success] = "Successfully sent invite!"
+    elsif @invitee[0] == nil
+      flash[:error] = "The Github user you selected doesn't have an email address associated with their account."
     end
   end
 
