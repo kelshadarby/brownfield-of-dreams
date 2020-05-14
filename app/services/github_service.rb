@@ -1,12 +1,19 @@
 class GithubService
   def github_info(path, token)
-    get_json("/user/#{path}?access_token=#{token}")
+    params = { access_token: token }
+    get_json("/user/#{path}", params)
+  end
+
+  def github_username(token)
+    params = { access_token: token}
+
+    get_json("/user", params)
   end
 
   private
 
-  def get_json(url)
-    response = conn.get(url)
+  def get_json(url, params)
+    response = conn.get(url, params)
     JSON.parse(response.body, symbolize_names: true)
   end
 

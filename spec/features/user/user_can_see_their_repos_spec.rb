@@ -16,19 +16,19 @@ RSpec.describe "As a User" do
                         github_token: ENV['kelsha_github_token'])
     allow_any_instance_of(ApplicationController).to receive(:current_user).and_return(user)
 
-    json_response = File.read('spec/fixtures/github_repos.json')
-    stub_request(:get, "https://api.github.com/user/repos?access_token=#{user.github_token}").
-      to_return(status: 200, body: json_response)
-
-    json_response = File.read('spec/fixtures/github_followers.json')
-    stub_request(:get, "https://api.github.com/user/followers?access_token=#{user.github_token}").
-      to_return(status: 200, body: json_response)
-
-    json_response = File.read('spec/fixtures/github_following.json')
-    stub_request(:get, "https://api.github.com/user/following?access_token=#{user.github_token}").
-      to_return(status: 200, body: json_response)
+    # json_response = File.read('spec/fixtures/github_repos.json')
+    # stub_request(:get, "https://api.github.com/user/repos?access_token=#{user.github_token}").
+    #   to_return(status: 200, body: json_response)
+    #
+    # json_response = File.read('spec/fixtures/github_followers.json')
+    # stub_request(:get, "https://api.github.com/user/followers?access_token=#{user.github_token}").
+    #   to_return(status: 200, body: json_response)
+    #
+    # json_response = File.read('spec/fixtures/github_following.json')
+    # stub_request(:get, "https://api.github.com/user/following?access_token=#{user.github_token}").
+    #   to_return(status: 200, body: json_response)
   end
-  it "I can see 5 of my repos" do
+  it "I can see 5 of my repos", :vcr do
     # VCR.use_cassette('can see 5 of my repos') do
     visit "/dashboard"
 
@@ -45,7 +45,7 @@ RSpec.describe "As a User" do
     end
   end
 
-  it "cannot see the github section without a token" do
+  it "cannot see the github section without a token", :vcr do
     user = User.create(email: 'jennyklich@gmail.com',
                        first_name: 'Jenny',
                        last_name: 'Klich',
