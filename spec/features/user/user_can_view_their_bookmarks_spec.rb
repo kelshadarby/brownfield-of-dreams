@@ -1,7 +1,7 @@
 require 'rails_helper'
 
 RSpec.describe "As a User" do
-  it "I can see all my bookmarks" do
+  it "I can see all my bookmarks", :vcr do
     tutorial_1 = create(:tutorial, title: "How to Tie Your Shoes")
     tutorial_2 = create(:tutorial, title: "How to Curl Your Hair")
     video_1 = create(:video, title: "With a Curling Iron", tutorial: tutorial_2)
@@ -33,9 +33,3 @@ RSpec.describe "As a User" do
     end
   end
 end
-
-# As a logged in user
-# When I visit '/dashboard'
-# Then I should see a list of all bookmarked segments under the Bookmarked Segments section
-# And they should be organized by which tutorial they are a part of
-# And the videos should be ordered by their position
