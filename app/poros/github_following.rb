@@ -8,7 +8,7 @@ class GithubFollowing
   end
 
   def site_user?
-    site_user = User.where("github_login = ?", self.login)
+    site_user = User.where('github_login = ?', login)
     return true unless site_user.empty?
   end
 end

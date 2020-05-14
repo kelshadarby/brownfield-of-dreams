@@ -7,7 +7,7 @@ class GithubService
   def github_username(token)
     params = { access_token: token }
 
-    get_json("/user", params)
+    get_json('/user', params)
   end
 
   def github_email_and_name(github_username, token)
@@ -24,6 +24,6 @@ class GithubService
   end
 
   def conn
-    Faraday.new(url: "https://api.github.com")
+    Faraday.new(url: 'https://api.github.com')
   end
 end
