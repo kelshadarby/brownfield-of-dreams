@@ -11,8 +11,6 @@ class EmailController < ApplicationController
     redirect_to email_url
   end
 
-  def index
-    require "pry"; binding.pry
-    # current_user.update(email_activated: true)
-  end
+  # def index
+  # end
 end
