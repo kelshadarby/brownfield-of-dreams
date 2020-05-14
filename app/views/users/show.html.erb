@@ -8,8 +8,16 @@
     <li> <%= current_user.first_name  %> <%= current_user.last_name %> </li>
     <li> <%= current_user.email%> </li>
   </ul>
-  <section>
+  <section class= "bookmarked_segments" >
     <h1>Bookmarked Segments</h1>
+      <% @bookmarks.each do |tutorial, bookmark| %>
+        <section id= "tutorial-<%= tutorial.title %>" >
+          <h4><%= tutorial.title %></h4>
+            <% bookmark.each do |b| %>
+              <%= b.title %>
+            <% end %>
+        </section>
+      <% end %>
   </section>
 </section>
 <% if current_user.github_token %>
