@@ -3,8 +3,8 @@ require 'rails_helper'
 describe 'Visitor' do
   describe 'on the home page' do
     it 'I cannot see classroom tutorials', :vcr do
-      tutorial1 = create(:tutorial)
-      tutorial2 = create(:tutorial, classroom: true)
+      tutorial1 = create(:tutorial, description: "Fantastic tutorial 10/10")
+      tutorial2 = create(:tutorial, description: "Wowza!!!!!!!!", classroom: true)
 
       # video1 = create(:video, tutorial_id: tutorial1.id)
       # video2 = create(:video, tutorial_id: tutorial1.id)
