@@ -33,7 +33,7 @@ class UsersController < ApplicationController
 
       flash.now[:success] = 'Successfully sent invite!'
     elsif @invitee[0].nil?
-      flash[:error] = "The Github user you selected doesn't have an email address associated with their account."
+      flash.now[:error] = "The Github user you selected doesn't have an email address associated with their account."
     end
   end
 
