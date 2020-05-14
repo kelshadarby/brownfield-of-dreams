@@ -12,7 +12,6 @@ class EmailController < ApplicationController
   end
 
   def index
-    require "pry"; binding.pry
-    # current_user.update(email_activated: true)
+
   end
 end
