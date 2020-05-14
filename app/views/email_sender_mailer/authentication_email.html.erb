@@ -6,6 +6,6 @@
   <body>
     <h1>Welcome to brownfield_of_dreams.com, <%= @user.first_name %></h1>
 
-    <%= link_to "Visit here to activate your account.", 'http://localhost:3000/emails' %>
+    <%= link_to "Visit here to activate your account.", emails_url(@user) %>
   </body>
 </html>
