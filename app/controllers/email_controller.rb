@@ -12,5 +12,6 @@ class EmailController < ApplicationController
     redirect_to email_url
   end
 
-  def index; end
+  # def index
+  # end
 end
